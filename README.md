@@ -13,10 +13,6 @@ lego-digital-designer-files
 
 ![Lego Safe](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/LegoSafe.png)
 
-## Lego Safe 2
-
-![Lego Safe 2](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/LegoSafe2.png)
-
 ## Left/Right Remote
 
 ![L-R-Remote](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/L-R-Remote.png)
