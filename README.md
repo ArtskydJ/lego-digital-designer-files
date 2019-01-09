@@ -3,7 +3,7 @@ lego-digital-designer-files
 
 ## Bop It
 
-![Bop It](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/Bop It.png)
+![Bop It](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/Bop%20It.png)
 
 ## Fake Universal Joint
 
