@@ -3,32 +3,37 @@ lego-digital-designer-files
 
 ## Bop It
 
-![Bop It](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/Bop%20It.png)
+![Bop It](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[Bop%20It]-images/Step32.png)
 
-## Fake Universal Joint
+## Catapult
 
-![Fake Universal Joint](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/FakeUniversalJoint.png)
+![Catapult](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[Catapult]-images/Step29.png)
 
-## Lego Safe
+## FakeUniversalJoint
 
-![Lego Safe](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/LegoSafe.png)
+![FakeUniversalJoint](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[FakeUniversalJoint]-images/Step7.png)
 
-## Left/Right Remote
+## L-R-Remote
 
-![L-R-Remote](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/L-R-Remote.png)
+![L-R-Remote](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[L-R-Remote]-images/Step8.png)
 
-## Remote Control
+## LegoSafe
 
-![Remote Control](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/RemoteControl.png)
+![LegoSafe](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[LegoSafe]-images/Step79.png)
 
-## Remote Control 2
+## RemoteControl
 
-![Remote Control 2](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/RemoteControl2.png)
+![RemoteControl](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[RemoteControl]-images/Step18.png)
 
-## Shooter
+## RemoteControl2
 
-![Shooter](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/shooter.png)
+![RemoteControl2](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[RemoteControl2]-images/Step10.png)
+
+## shooter
+
+![shooter](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[shooter]-images/Step3.png)
 
 ## Strandbeest
 
-![Strandbeest](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/screenshots/Strandbeest.png)
+![Strandbeest](https://raw.githubusercontent.com/ArtskydJ/lego-digital-designer-files/master/HTML%20Building%20Instructions/Building%20Instructions%20[Strandbeest]-images/Step9.png)
+
